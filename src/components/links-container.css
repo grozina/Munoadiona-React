@@ -1,0 +1,32 @@
+.links-container-links-container {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+ 
+.links-container-text1 {
+  margin-right: var(--dl-layout-space-doubleunit);
+}
+ 
+.links-container-text2 {
+  margin-right: var(--dl-layout-space-doubleunit);
+}
+ 
+.links-container-text3 {
+  display: none;
+  margin-right: var(--dl-layout-space-doubleunit);
+}
+ 
+.links-container-text4 {
+  display: inline-block;
+}
+ 
+.links-container-text5 {
+  display: inline-block;
+}
+ 
+.links-container-text6 {
+  display: inline-block;
+}
